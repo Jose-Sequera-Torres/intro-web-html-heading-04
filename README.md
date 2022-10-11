@@ -17,7 +17,7 @@ En este lab añadiremos 2 elementos `div` los cuales nos permitirán contener ot
 Bifurca (fork) y clona (clone) este lab en tu entorno local. Navega a su directorio en la terminal, luego ejecuta el comando `code .` para abrir sus archivos en Visual Studio Code. 
 
 1. Agrega el siguiente código dentro de las etiquetas `body` de apertura y cierre. 
-
+r
 ```
 <div>
   <h1>Los lenguajes del navegador</h1>
